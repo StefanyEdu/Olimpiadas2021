@@ -1,0 +1,22 @@
+{
+  "name": "projetosolimpiada",
+  "version": "1.0.0",
+  "description": "Projeto Olimpiadas DBServer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanyEdu/Olimpiadas2021.git"
+  },
+  "author": "StefanyEduarda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StefanyEdu/Olimpiadas2021/issues"
+  },
+  "homepage": "https://github.com/StefanyEdu/Olimpiadas2021#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
